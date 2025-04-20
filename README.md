@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**mechadns/mechadns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 I'm currently pursuing an MSc. Data Science at the University of East London.<br>I am looking to collaborate on machine learning and predictive modelling projects.<br>I am skilled in data analytics and happy to help on data-related projects.
 
