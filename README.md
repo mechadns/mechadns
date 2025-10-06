@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing an MSc. Data Science at the University of East London.<br>I am looking to collaborate on machine learning and predictive modeling projects.<br>I am happy to collaborate on any other data-related projects.
+Data Scientist.<br>Curious about machine learning and predictive modeling.<br>Interested in causal inference and machine learning in finance.
 
 
 ## 🌐 Socials:
