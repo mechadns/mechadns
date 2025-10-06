@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist.<br>Curious about machine learning and predictive modeling.<br>Interested in causal inference and machine learning in finance.
+Data Scientist.<br>Curious about machine learning and predictive modeling.<br>Interested in causal inference.
 
 
 ## 🌐 Socials:
