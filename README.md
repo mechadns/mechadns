@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist.<br>Curious about machine learning and predictive modeling.<br>Interested in causal inference.
+Data professional with 4+ years of experience driving business outcomes through statistical modeling and analytics.<br>I bridge theoretical data science and practical application.<br>Passionate about AI safety, and deploying end-to-end causal inference projects.
 
 
 ## 🌐 Socials:
